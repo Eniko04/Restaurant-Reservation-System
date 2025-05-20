@@ -1,0 +1,60 @@
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/bin/Debug/net8.0/appsettings.Development.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/bin/Debug/net8.0/appsettings.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/bin/Debug/net8.0/RestaurantClient.staticwebassets.runtime.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/bin/Debug/net8.0/RestaurantClient
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/bin/Debug/net8.0/RestaurantClient.deps.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/bin/Debug/net8.0/RestaurantClient.runtimeconfig.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/bin/Debug/net8.0/RestaurantClient.dll
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/bin/Debug/net8.0/RestaurantClient.pdb
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.AssemblyInfoInputs.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.AssemblyInfo.cs
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.csproj.CoreCompileInputs.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.MvcApplicationPartsAssemblyInfo.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.RazorAssemblyInfo.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.RazorAssemblyInfo.cs
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/staticwebassets.build.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/staticwebassets.development.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/staticwebassets/msbuild.RestaurantClient.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/staticwebassets/msbuild.build.RestaurantClient.props
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RestaurantClient.props
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RestaurantClient.props
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/scopedcss/bundle/RestaurantClient.styles.css
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/scopedcss/projectbundle/RestaurantClient.bundle.scp.css
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.dll
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/refint/RestaurantClient.dll
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.pdb
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/RestaurantClient.genruntimeconfig.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI/RestaurantClient/obj/Debug/net8.0/ref/RestaurantClient.dll
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/bin/Debug/net8.0/appsettings.Development.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/bin/Debug/net8.0/appsettings.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/bin/Debug/net8.0/RestaurantClient.staticwebassets.runtime.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/bin/Debug/net8.0/RestaurantClient
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/bin/Debug/net8.0/RestaurantClient.deps.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/bin/Debug/net8.0/RestaurantClient.runtimeconfig.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/bin/Debug/net8.0/RestaurantClient.dll
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/bin/Debug/net8.0/RestaurantClient.pdb
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.AssemblyInfoInputs.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.AssemblyInfo.cs
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.csproj.CoreCompileInputs.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.MvcApplicationPartsAssemblyInfo.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.RazorAssemblyInfo.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.RazorAssemblyInfo.cs
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/staticwebassets.build.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/staticwebassets.development.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/staticwebassets/msbuild.RestaurantClient.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/staticwebassets/msbuild.build.RestaurantClient.props
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RestaurantClient.props
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RestaurantClient.props
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/scopedcss/bundle/RestaurantClient.styles.css
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/scopedcss/projectbundle/RestaurantClient.bundle.scp.css
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.dll
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/refint/RestaurantClient.dll
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.pdb
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/RestaurantClient.genruntimeconfig.cache
+/Users/enizali/Desktop/4S/Разпределени приложения/WEBAPI 2/RestaurantClient/obj/Debug/net8.0/ref/RestaurantClient.dll
